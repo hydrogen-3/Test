@@ -1,7 +1,11 @@
 ////////////////////////////////////////////////////////////////////////////////////////
 
 This is the readme of test
-This repository is not meant for any serious stuff. Its just some- demo files
-of practicing my skills.
+
+This repository is not meant for any serious stuff. 
+Its just some- 
+demo files 
+of practicing my 
+skills.
 
 ////////////////////////////////////////////////////////////////////////////////////////
