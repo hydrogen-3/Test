@@ -1,11 +1,6 @@
-Test Repository
+Welcome to my test repo.
+This isnt a serious project- Just small programming projects of mine, I did entirely by myself
+This repo is open because, its for another beginner to see my work.
+Feel free to copy anything, use them for your own stuff, Or use them for learning!
 
-Welcome to the README of this test repo.
-
-This repository isn’t meant for anything serious—just a space for:
-
-    Demo files
-    Practice exercises
-    Sharpening my coding skills
-
-Feel free to see my stuff, reuse them, use them for learning.
+BetaNeutrino(c)
