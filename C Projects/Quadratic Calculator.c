@@ -14,7 +14,4 @@ int main()
     if ((b*b-4*a*c)<0) {
         printf("The Answer is complex(imaginary) and cannot be solved.\n");
     }
-    printf("To find answers of ax^2+bx+c=0\n");
-    printf("Just type the Values of a,b,c\n");
-    printf("Developed by BetaNeutrino\n");
 }

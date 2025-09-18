@@ -8,6 +8,7 @@ int main() {
     printf("3. x*y(Multiply)\n");
     printf("4. x/y(Divide)\n");
     printf("5. x^1/2(Square Root)\n");
+    printf("6. x^2(Square)\n");
     scanf("%f", &choice);
     if (choice==1) {
         printf("Put the numbers you want to addition: x y\n");
@@ -36,7 +37,18 @@ int main() {
     else if (choice==5) {
         printf("Put the numbers you want to square root: x\n");
         scanf("%f", &var1);
-        ans=sqrt(var1);
+        if (var1>=0) {
+            ans=sqrt(var1);
+            printf("The answer is %2.2f", ans);
+        }
+        else if (var1<0) {
+            printf("The number is complex(Imaginary) and cannot be solved.");
+        }
+    }
+    else if (choice==6) {
+        printf("Put the numbers you want to square: x\n");
+        scanf("%f", &var1);
+        ans=var1*var1;
         printf("The answer is %2.2f", ans);
     }
     else {
